@@ -1,0 +1,47 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl Material_#10.003
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\thedu\\AndroidStudioProjects\\Models\\Pokemon XY\\Bulbasaur\\images_shiny\\pm0001_00_BodyA1.png
+
+newmtl Material_#11.001
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\thedu\\AndroidStudioProjects\\Models\\Pokemon XY\\Bulbasaur\\images\\mergedpng.png
+
+newmtl Material_#12
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\thedu\\AndroidStudioProjects\\Models\\Pokemon XY\\Bulbasaur\\images\\mergedpng.png
+
+newmtl Material_#13
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\thedu\\AndroidStudioProjects\\Models\\Pokemon XY\\Bulbasaur\\images\\mergedpng.png
+map_d C:\\Users\\thedu\\AndroidStudioProjects\\Models\\Pokemon XY\\Bulbasaur\\images_shiny\\pm0001_00_Iris1.png
